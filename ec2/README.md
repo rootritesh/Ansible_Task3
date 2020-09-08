@@ -1,4 +1,4 @@
-Role Name
+ec2
 =========
 
 This Roles launch 4 instance on AWS, 3 or webserver and 1 for haproxy config.
