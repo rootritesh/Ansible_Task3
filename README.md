@@ -1,5 +1,4 @@
 # Ansible_Task3
-# Ansible Task2
 
 ### Variables in ec2 Role:
 * aws_instance_type
