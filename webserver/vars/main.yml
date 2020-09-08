@@ -1,0 +1,6 @@
+---
+# vars file for webserver
+package_name: "httpd"
+git_repo: "https://github.com/rootritesh/demowebsite1.git"
+location: "/var/www/html"
+
