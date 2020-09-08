@@ -45,4 +45,4 @@ ansbile-playbook --ask-vault-pass PLAYBOOK.yml
 
 
 # Detailed explanation 
-[AnsibleTask2]
+[AnsibleTask2]('https://medium.com/@rootritesh/configure-lb-haproxy-using-ansible-roles-on-aws-bb1350d0b30a')
